@@ -211,12 +211,30 @@
   },
   {
     "date": "2026-06-23",
+    "time": "14:00",
+    "platform": "instagram",
+    "slug": "composio-1000apps",
+    "video_url": "https://raw.githubusercontent.com/ninja-automacoes/reels-assets/main/reels/composio-1000apps.mp4",
+    "caption": "Conectar o Claude em 1000 apps? 1 comando 🔌\n\nAntes, ligar o Claude no Instagram era criar app no Facebook Dev, gerar token, OAuth… um inferno. O Composio é 1 endpoint: escolhe o app e já tem todas as ações (Instagram, LinkedIn, YouTube… ~1000 ferramentas).\n\n🎬 Corte da live do Claude Code na Prática — editado com Claude Code.\n💬 Comenta CLAUDE pra fazer parte.\n\n#claudecode #composio #mcp #automacao #ia #devbr",
+    "status": "ready"
+  },
+  {
+    "date": "2026-06-23",
     "time": "15:00",
     "platform": "youtube",
     "slug": "mei",
     "video_url": "https://raw.githubusercontent.com/ninja-automacoes/reels-assets/main/reels/mei_yt.mp4",
     "title": "MEI errado = imposto a mais 💸 #Shorts",
     "desc": "MEI não serve pra programação. Carnê-leão (27,5%) no início; passou de US$2k/mês, abre microempresa e paga 6%.\n\nNinja das Automações 🥷\n\n#Shorts #upwork #freelancer #imposto #automacao #rendaextra",
+    "status": "ready"
+  },
+  {
+    "date": "2026-06-24",
+    "time": "14:00",
+    "platform": "instagram",
+    "slug": "composio-whitelabel",
+    "video_url": "https://raw.githubusercontent.com/ninja-automacoes/reels-assets/main/reels/composio-whitelabel.mp4",
+    "caption": "Conecta os teus CLIENTES no Instagram (White Label) 🏷️\n\nFaz SaaS ou serviço? Com o Composio você manda o link, o cliente autoriza e a conexão sai no teu nome — app já verificado pela Meta. Sem cada cliente criar app no Facebook Dev.\n\n🎬 Corte da live do Claude Code na Prática — editado com Claude Code.\n💬 Comenta CLAUDE pra fazer parte.\n\n#claudecode #composio #saas #automacao #ia #devbr",
     "status": "ready"
   },
   {
@@ -231,6 +249,15 @@
   },
   {
     "date": "2026-06-25",
+    "time": "14:00",
+    "platform": "instagram",
+    "slug": "obs-evolve",
+    "video_url": "https://raw.githubusercontent.com/ninja-automacoes/reels-assets/main/reels/obs-evolve.mp4",
+    "caption": "Seu segundo cérebro se organiza SOZINHO 🧹\n\nO comando Evolve lê tudo, junta o que tá duplicado, acha página órfã e religa o que faltava — 1x por semana o conhecimento se compõe sozinho.\n\n🎬 Corte da live do Claude Code na Prática — editado com Claude Code.\n💬 Comenta CLAUDE pra fazer parte.\n\n#claudecode #obsidian #segundocerebro #ia #automacao #devbr",
+    "status": "ready"
+  },
+  {
+    "date": "2026-06-25",
     "time": "15:00",
     "platform": "youtube",
     "slug": "obs-monitor-fontes",
@@ -241,12 +268,61 @@
   },
   {
     "date": "2026-06-26",
+    "time": "14:00",
+    "platform": "instagram",
+    "slug": "obs-segundo-cerebro",
+    "video_url": "https://raw.githubusercontent.com/ninja-automacoes/reels-assets/main/reels/obs-segundo-cerebro.mp4",
+    "caption": "Todo mundo fala de segundo cérebro. É isso aqui 🧠\n\nBase de conhecimento em arquivos .md (o mesmo que o Claude já usa). Diferente do Google Drive cheio de doc solto: aqui tudo fica ligado e o Claude raciocina em cima.\n\n🎬 Corte da live do Claude Code na Prática — editado com Claude Code.\n💬 Comenta CLAUDE pra fazer parte.\n\n#claudecode #obsidian #segundocerebro #ia #automacao #devbr",
+    "status": "ready"
+  },
+  {
+    "date": "2026-06-26",
     "time": "15:00",
     "platform": "youtube",
     "slug": "obs-contexto",
     "video_url": "https://raw.githubusercontent.com/ninja-automacoes/reels-assets/main/reels/obs-contexto_yt.mp4",
     "title": "O que diferencia quem usa IA não é o prompt 🧠 #Shorts",
     "desc": "Prompt some quando o chat reseta. Contexto permanente (segundo cérebro) faz o agente lembrar quem você é, sempre.\n\nNinja das Automações 🥷\n\n#Shorts #claudecode #obsidian #ia #contexto",
+    "status": "ready"
+  },
+  {
+    "date": "2026-06-27",
+    "time": "15:00",
+    "platform": "youtube",
+    "slug": "composio-1000apps",
+    "video_url": "https://raw.githubusercontent.com/ninja-automacoes/reels-assets/main/reels/composio-1000apps_yt.mp4",
+    "title": "Conecta o Claude em 1000 apps com 1 comando 🔌 #Shorts",
+    "desc": "Composio = 1 endpoint MCP. Escolhe o app e o Claude já tem todas as ações. Sem Facebook Dev, sem token.\n\nNinja das Automações 🥷\n\n#Shorts #claudecode #composio #mcp #automacao #ia",
+    "status": "ready"
+  },
+  {
+    "date": "2026-06-28",
+    "time": "15:00",
+    "platform": "youtube",
+    "slug": "composio-whitelabel",
+    "video_url": "https://raw.githubusercontent.com/ninja-automacoes/reels-assets/main/reels/composio-whitelabel_yt.mp4",
+    "title": "Conecta os clientes no Insta com White Label 🏷️ #Shorts",
+    "desc": "Composio White Label: manda o link, o cliente autoriza, conecta no teu nome (app verificado pela Meta). Perfeito pra SaaS/serviço.\n\nNinja das Automações 🥷\n\n#Shorts #claudecode #composio #saas #automacao",
+    "status": "ready"
+  },
+  {
+    "date": "2026-06-29",
+    "time": "15:00",
+    "platform": "youtube",
+    "slug": "obs-evolve",
+    "video_url": "https://raw.githubusercontent.com/ninja-automacoes/reels-assets/main/reels/obs-evolve_yt.mp4",
+    "title": "Seu segundo cérebro se organiza sozinho 🧹 #Shorts",
+    "desc": "O comando Evolve: lê tudo, junta duplicado, religa página órfã. 1x por semana o conhecimento se compõe sozinho.\n\nNinja das Automações 🥷\n\n#Shorts #claudecode #obsidian #ia #segundocerebro",
+    "status": "ready"
+  },
+  {
+    "date": "2026-06-30",
+    "time": "15:00",
+    "platform": "youtube",
+    "slug": "obs-segundo-cerebro",
+    "video_url": "https://raw.githubusercontent.com/ninja-automacoes/reels-assets/main/reels/obs-segundo-cerebro_yt.mp4",
+    "title": "Todo mundo fala de segundo cérebro. É isso 🧠 #Shorts",
+    "desc": "Segundo cérebro = base de conhecimento em .md (o mesmo que o Claude usa). Tudo ligado, diferente do Drive com doc solto.\n\nNinja das Automações 🥷\n\n#Shorts #claudecode #obsidian #ia #segundocerebro",
     "status": "ready"
   }
 ]
