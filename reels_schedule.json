@@ -154,6 +154,15 @@
   },
   {
     "date": "2026-06-20",
+    "time": "14:00",
+    "platform": "instagram",
+    "slug": "composio-20dias",
+    "video_url": "https://raw.githubusercontent.com/ninja-automacoes/reels-assets/main/reels/composio-20dias.mp4",
+    "caption": "Esperei 20 dias pra Meta liberar... e fui RECUSADO 😤\n\nPra postar automático no Instagram pela API oficial eu tinha que criar app no Facebook Dev, gravar vídeo, mandar pra Meta e esperar 20 dias — pra no fim ser recusado. Aí descobri o Composio: app já verificado, conecta na hora.\n\n🎬 Corte da live do Claude Code na Prática — editado com Claude Code.\n💬 Comenta CLAUDE pra fazer parte.\n\n#claudecode #composio #automacao #ia #instagram #devbr #vibecoding",
+    "status": "ready"
+  },
+  {
+    "date": "2026-06-20",
     "time": "15:00",
     "platform": "youtube",
     "slug": "perfil",
@@ -164,12 +173,30 @@
   },
   {
     "date": "2026-06-21",
+    "time": "14:00",
+    "platform": "instagram",
+    "slug": "obs-monitor-fontes",
+    "video_url": "https://raw.githubusercontent.com/ninja-automacoes/reels-assets/main/reels/obs-monitor-fontes.mp4",
+    "caption": "Dei 10 canais do YouTube. Ele assiste, resume e guarda — SOZINHO 🤖\n\nMontei um monitor de fontes no meu segundo cérebro: saiu vídeo novo, o Claude transcreve e joga no brain. Eu não abro nada — o cérebro cresce sozinho.\n\n🎬 Corte da live do Claude Code na Prática — editado com Claude Code.\n💬 Comenta CLAUDE pra fazer parte.\n\n#claudecode #obsidian #segundocerebro #ia #automacao #devbr",
+    "status": "ready"
+  },
+  {
+    "date": "2026-06-21",
     "time": "15:00",
     "platform": "youtube",
     "slug": "topearners",
     "video_url": "https://raw.githubusercontent.com/ninja-automacoes/reels-assets/main/reels/topearners_yt.mp4",
     "title": "Stalkeia quem fatura US$1M no Upwork 🔍 #Shorts",
     "desc": "Filtra por quem mais ganhou com n8n e copia o que dá certo: título, skills e 100% de entrega.\n\nNinja das Automações 🥷\n\n#Shorts #upwork #freelancer #automacao #gringos #n8n",
+    "status": "ready"
+  },
+  {
+    "date": "2026-06-22",
+    "time": "14:00",
+    "platform": "instagram",
+    "slug": "obs-contexto",
+    "video_url": "https://raw.githubusercontent.com/ninja-automacoes/reels-assets/main/reels/obs-contexto.mp4",
+    "caption": "O que diferencia quem usa IA hoje não é o prompt — é o CONTEXTO 🧠\n\nPrompt some quando o chat reseta. Um segundo cérebro é contexto PERMANENTE: qualquer agente que acessa já sabe quem você é, sempre.\n\n🎬 Corte da live do Claude Code na Prática — editado com Claude Code.\n💬 Comenta CLAUDE pra fazer parte.\n\n#claudecode #obsidian #ia #contexto #automacao #devbr",
     "status": "ready"
   },
   {
@@ -190,6 +217,36 @@
     "video_url": "https://raw.githubusercontent.com/ninja-automacoes/reels-assets/main/reels/mei_yt.mp4",
     "title": "MEI errado = imposto a mais 💸 #Shorts",
     "desc": "MEI não serve pra programação. Carnê-leão (27,5%) no início; passou de US$2k/mês, abre microempresa e paga 6%.\n\nNinja das Automações 🥷\n\n#Shorts #upwork #freelancer #imposto #automacao #rendaextra",
+    "status": "ready"
+  },
+  {
+    "date": "2026-06-24",
+    "time": "15:00",
+    "platform": "youtube",
+    "slug": "composio-20dias",
+    "video_url": "https://raw.githubusercontent.com/ninja-automacoes/reels-assets/main/reels/composio-20dias_yt.mp4",
+    "title": "Esperei 20 dias pra Meta... e fui recusado 😤 #Shorts",
+    "desc": "Postar automático no Instagram pela API oficial = 20 dias esperando a Meta e recusa. O Composio resolve: app já verificado, conecta na hora.\n\nNinja das Automações 🥷\n\n#Shorts #claudecode #composio #automacao #ia #instagram",
+    "status": "ready"
+  },
+  {
+    "date": "2026-06-25",
+    "time": "15:00",
+    "platform": "youtube",
+    "slug": "obs-monitor-fontes",
+    "video_url": "https://raw.githubusercontent.com/ninja-automacoes/reels-assets/main/reels/obs-monitor-fontes_yt.mp4",
+    "title": "Dei 10 canais do YouTube e a IA resume sozinho 🤖 #Shorts",
+    "desc": "Monitor de fontes: saiu vídeo novo, o Claude transcreve e guarda no segundo cérebro. Sozinho.\n\nNinja das Automações 🥷\n\n#Shorts #claudecode #obsidian #ia #automacao #segundocerebro",
+    "status": "ready"
+  },
+  {
+    "date": "2026-06-26",
+    "time": "15:00",
+    "platform": "youtube",
+    "slug": "obs-contexto",
+    "video_url": "https://raw.githubusercontent.com/ninja-automacoes/reels-assets/main/reels/obs-contexto_yt.mp4",
+    "title": "O que diferencia quem usa IA não é o prompt 🧠 #Shorts",
+    "desc": "Prompt some quando o chat reseta. Contexto permanente (segundo cérebro) faz o agente lembrar quem você é, sempre.\n\nNinja das Automações 🥷\n\n#Shorts #claudecode #obsidian #ia #contexto",
     "status": "ready"
   }
 ]
