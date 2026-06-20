@@ -167,7 +167,8 @@
     "slug": "composio-20dias",
     "video_url": "https://raw.githubusercontent.com/ninja-automacoes/reels-assets/main/reels/composio-20dias.mp4",
     "caption": "Esperei 20 dias pra Meta liberar... e fui RECUSADO 😤\n\nPra postar automático no Instagram pela API oficial eu tinha que criar app no Facebook Dev, gravar vídeo, mandar pra Meta e esperar 20 dias — pra no fim ser recusado. Aí descobri o Composio: app já verificado, conecta na hora.\n\n🎬 Corte da live do Claude Code na Prática — editado com Claude Code.\n💬 Comenta CLAUDE pra fazer parte.\n\n#claudecode #composio #automacao #ia #instagram #devbr #vibecoding",
-    "status": "ready"
+    "status": "ready",
+    "trial": true
   },
   {
     "date": "2026-06-20",
@@ -186,7 +187,8 @@
     "slug": "obs-monitor-fontes",
     "video_url": "https://raw.githubusercontent.com/ninja-automacoes/reels-assets/main/reels/obs-monitor-fontes.mp4",
     "caption": "Dei 10 canais do YouTube. Ele assiste, resume e guarda — SOZINHO 🤖\n\nMontei um monitor de fontes no meu segundo cérebro: saiu vídeo novo, o Claude transcreve e joga no brain. Eu não abro nada — o cérebro cresce sozinho.\n\n🎬 Corte da live do Claude Code na Prática — editado com Claude Code.\n💬 Comenta CLAUDE pra fazer parte.\n\n#claudecode #obsidian #segundocerebro #ia #automacao #devbr",
-    "status": "ready"
+    "status": "ready",
+    "trial": true
   },
   {
     "date": "2026-06-21",
@@ -205,7 +207,8 @@
     "slug": "obs-contexto",
     "video_url": "https://raw.githubusercontent.com/ninja-automacoes/reels-assets/main/reels/obs-contexto.mp4",
     "caption": "O que diferencia quem usa IA hoje não é o prompt — é o CONTEXTO 🧠\n\nPrompt some quando o chat reseta. Um segundo cérebro é contexto PERMANENTE: qualquer agente que acessa já sabe quem você é, sempre.\n\n🎬 Corte da live do Claude Code na Prática — editado com Claude Code.\n💬 Comenta CLAUDE pra fazer parte.\n\n#claudecode #obsidian #ia #contexto #automacao #devbr",
-    "status": "ready"
+    "status": "ready",
+    "trial": true
   },
   {
     "date": "2026-06-22",
@@ -224,7 +227,8 @@
     "slug": "composio-1000apps",
     "video_url": "https://raw.githubusercontent.com/ninja-automacoes/reels-assets/main/reels/composio-1000apps.mp4",
     "caption": "Conectar o Claude em 1000 apps? 1 comando 🔌\n\nAntes, ligar o Claude no Instagram era criar app no Facebook Dev, gerar token, OAuth… um inferno. O Composio é 1 endpoint: escolhe o app e já tem todas as ações (Instagram, LinkedIn, YouTube… ~1000 ferramentas).\n\n🎬 Corte da live do Claude Code na Prática — editado com Claude Code.\n💬 Comenta CLAUDE pra fazer parte.\n\n#claudecode #composio #mcp #automacao #ia #devbr",
-    "status": "ready"
+    "status": "ready",
+    "trial": true
   },
   {
     "date": "2026-06-23",
@@ -243,7 +247,8 @@
     "slug": "composio-whitelabel",
     "video_url": "https://raw.githubusercontent.com/ninja-automacoes/reels-assets/main/reels/composio-whitelabel.mp4",
     "caption": "Conecta os teus CLIENTES no Instagram (White Label) 🏷️\n\nFaz SaaS ou serviço? Com o Composio você manda o link, o cliente autoriza e a conexão sai no teu nome — app já verificado pela Meta. Sem cada cliente criar app no Facebook Dev.\n\n🎬 Corte da live do Claude Code na Prática — editado com Claude Code.\n💬 Comenta CLAUDE pra fazer parte.\n\n#claudecode #composio #saas #automacao #ia #devbr",
-    "status": "ready"
+    "status": "ready",
+    "trial": true
   },
   {
     "date": "2026-06-24",
@@ -262,7 +267,8 @@
     "slug": "obs-evolve",
     "video_url": "https://raw.githubusercontent.com/ninja-automacoes/reels-assets/main/reels/obs-evolve.mp4",
     "caption": "Seu segundo cérebro se organiza SOZINHO 🧹\n\nO comando Evolve lê tudo, junta o que tá duplicado, acha página órfã e religa o que faltava — 1x por semana o conhecimento se compõe sozinho.\n\n🎬 Corte da live do Claude Code na Prática — editado com Claude Code.\n💬 Comenta CLAUDE pra fazer parte.\n\n#claudecode #obsidian #segundocerebro #ia #automacao #devbr",
-    "status": "ready"
+    "status": "ready",
+    "trial": true
   },
   {
     "date": "2026-06-25",
@@ -281,7 +287,8 @@
     "slug": "obs-segundo-cerebro",
     "video_url": "https://raw.githubusercontent.com/ninja-automacoes/reels-assets/main/reels/obs-segundo-cerebro.mp4",
     "caption": "Todo mundo fala de segundo cérebro. É isso aqui 🧠\n\nBase de conhecimento em arquivos .md (o mesmo que o Claude já usa). Diferente do Google Drive cheio de doc solto: aqui tudo fica ligado e o Claude raciocina em cima.\n\n🎬 Corte da live do Claude Code na Prática — editado com Claude Code.\n💬 Comenta CLAUDE pra fazer parte.\n\n#claudecode #obsidian #segundocerebro #ia #automacao #devbr",
-    "status": "ready"
+    "status": "ready",
+    "trial": true
   },
   {
     "date": "2026-06-26",
