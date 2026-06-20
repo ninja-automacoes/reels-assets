@@ -167,8 +167,10 @@
     "slug": "composio-20dias",
     "video_url": "https://raw.githubusercontent.com/ninja-automacoes/reels-assets/main/reels/composio-20dias.mp4",
     "caption": "Esperei 20 dias pra Meta liberar... e fui RECUSADO 😤\n\nPra postar automático no Instagram pela API oficial eu tinha que criar app no Facebook Dev, gravar vídeo, mandar pra Meta e esperar 20 dias — pra no fim ser recusado. Aí descobri o Composio: app já verificado, conecta na hora.\n\n🎬 Corte da live do Claude Code na Prática — editado com Claude Code.\n💬 Comenta CLAUDE pra fazer parte.\n\n#claudecode #composio #automacao #ia #instagram #devbr #vibecoding",
-    "status": "ready",
-    "trial": true
+    "status": "published",
+    "trial": true,
+    "media_id": "17949918342011319",
+    "posted_at": "2026-06-20T17:01:52.561Z"
   },
   {
     "date": "2026-06-20",
